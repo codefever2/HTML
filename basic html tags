@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head> 
+      <h1 style="color:goldenrod;"> HEADING </h1>
+    <style>
+        body {background-color: black;}
+        h1   {color: blue;}
+        p    {color: red;font-size: large;}
+        a{width: 20;}
+    </style>
+    <style>
+        .city {
+        background-color: tomato;
+        color: white;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+      }
+    </style>
+        <h1 class="city"> HEADING </h1>
+        <h2> MY <span class ="city">class is </span> important </h2>
+</head>
+<body>
+<h1>SUBHEADING</h1>
+<p style="color:pink;font-size:x-large;">  "This is a sample html file trying out new paragraphs inside web page </p>
+<a href="https://github.com/codefever2/CINEMA-TICKET-BOOKING-SYSTEM" > This is my github link </a>
+<img src="https://www.google.com/search?q=lion+images&tbm=isch&ved=2ahUKEwikutL-t5r4AhXwKbcAHThhB8cQ2-cCegQIABAA&oq=lion+images&gs_lcp=CgNpbWcQAzIFCAAQgAQyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BwgjEOoCECc6BAgAEEM6BwgAELEDEENQwNMDWJfmA2CM5wNoAnAAeACAAYkBiAHdB5IBBDExLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=LsueYqTrN_DT3LUPuMKduAw&rlz=1C5CHFA_enIN992IN992#imgrc=mWX-Q9GKarndFM" style="width=100px" alt="LION" />
+</body>
+</html>
